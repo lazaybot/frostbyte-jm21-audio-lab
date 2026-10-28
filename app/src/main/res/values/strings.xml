@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FROSTBYTE // 1984</string>
+    <string name="wallpaper_description">Low-power amber terminal live wallpaper with media controls</string>
+    <string name="status_format">MEDIA LINK .... %1$s\nAUDIO FFT ..... %2$s\nRENDER MODE ... 15 FPS ACTIVE / 0 FPS IDLE</string>
+    <string name="status_online">ONLINE</string>
+    <string name="status_permission_required">PERMISSION REQUIRED</string>
+    <string name="status_authorized">AUTHORIZED</string>
+    <string name="status_optional">OFF / OPTIONAL</string>
+</resources>
